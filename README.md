@@ -7,4 +7,4 @@
 > This application is followed from the below article
 [article](https://mobisoftinfotech.com/resources/blog/learn-typescript-with-react-by-building-a-crud-application/)
 &
-[codesandbox](https://codesandbox.io/p/sandbox/crud-app-with-react-hooks-and-typescript-7df3b
+[codesandbox](https://codesandbox.io/p/sandbox/crud-app-with-react-hooks-and-typescript-7df3b)
